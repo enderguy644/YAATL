@@ -2,4 +2,5 @@
 # YAATL
 YAATL A License that Says what you can and cant do
 
-YAATL Is a Custom License and you can Use it! YAY :D
+YAATL Is a Custom License and you can Use it! YAY :D +
+Rules: Write the Name and Version of YAATL (Current one is 1.0), Type your Rules for what Others Can and Cant do. Simple and easy :D
